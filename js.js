@@ -1,5 +1,5 @@
 function myFunction() {
-document.getElementById("demo").innerHTML = check dev console (control + shift + i)
+document.write('check dev console (control + shift + i)')
 console.log("never gonna give you up")
 console.log("never gonna let you down")
 console.log("never gonna, run around, and desert you.")
